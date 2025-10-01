@@ -17,7 +17,7 @@ Ich befinde mich derzeit in einer **Umschulung zum Fachinformatiker für Anwendu
 
 | Bereich         | Technologien |
 |----------------|--------------|
-| **Sprachen**   | C#, Java, Dart |
+| **Sprachen**   | C#, Java, Dart, Javascript/Typescript |
 | **Frameworks** | Flutter, JavaFX |
 | **Web**        | HTML, CSS, JavaScript |
 | **Systeme**    | Linux, Windows |
