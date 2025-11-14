@@ -21,7 +21,7 @@ Ich befinde mich derzeit in einer **Umschulung zum Fachinformatiker für Anwendu
 | **Frameworks** | Flutter, JavaFX |
 | **Web**        | HTML, CSS, JavaScript |
 | **Systeme**    | Linux, Windows |
-| **Tools**      | VS Code, Visual Studio, Intellij, Git, Terminal |
+| **Tools**      | VS Code, Visual Studio, Intellij, Webstorm, Git, Terminal |
 
 ---
 
