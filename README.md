@@ -1,4 +1,4 @@
-# Hey, ich bin [Dein Name] 👋
+# Hey, ich bin Martin 👋
 
 Ich bin aktuell in der **Umschulung zum Fachinformatiker Anwendungsentwicklung** und baue mir Schritt für Schritt mein Skillset auf. Ich lerne jeden Tag dazu – von der ersten Zeile Code bis hin zu vollständigen Applikationen.
 
