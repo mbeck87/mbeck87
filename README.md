@@ -30,7 +30,6 @@ Ich bin aktuell in der **Umschulung zum Fachinformatiker Anwendungsentwicklung**
 ## 📚 Aktuell am Lernen
 
 - Frontend-Entwicklung mit **Next.js** & **TypeScript**
-- Desktop-Applikationen mit **JavaFX**
 - Clean Code & Best Practices
 
 ---
