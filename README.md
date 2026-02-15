@@ -35,15 +35,6 @@ Ich bin aktuell in der **Umschulung zum Fachinformatiker Anwendungsentwicklung**
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbeck87&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbeck87&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <i>"Jeden Tag ein bisschen besser."</i>
 </p>
