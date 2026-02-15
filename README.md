@@ -23,5 +23,5 @@ Mein Fokus liegt auf Backend-Entwicklung und modernen Web-Frameworks, wobei ich 
 
 ### 📊 GitHub Stats
 
-![Deine Stats](https://github-readme-stats.vercel.app/api?username=DEIN-BENUTZERNAME&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-BENUTZERNAME&layout=compact&theme=radical&hide_border=true)
+![Deine Stats](https://github-readme-stats.vercel.app/api?username=DEIN-BENUTZERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-BENUTZERNAME&layout=compact&theme=radical)
