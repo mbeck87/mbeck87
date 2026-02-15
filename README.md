@@ -15,7 +15,7 @@ Ich bin aktuell in der **Umschulung zum Fachinformatiker Anwendungsentwicklung**
 ### Frameworks & Libraries
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JFrame](https://img.shields.io/badge/JFrame_(Swing)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JFrame](https://img.shields.io/badge/Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Tools & Umgebung
