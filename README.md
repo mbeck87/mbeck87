@@ -1,27 +1,54 @@
-### Hi there 👋
+Hallo, ich bin ein angehender Anwendungsentwickler! 👋
 
-Ich befinde mich aktuell in der **Umschulung zum Fachinformatiker für Anwendungsentwicklung**.
-Mein Fokus liegt auf Backend-Entwicklung und modernen Web-Frameworks, wobei ich mich auf Linux-Systemen am wohlsten fühle.
+Ich befinde mich aktuell in einer Umschulung zum Fachinformatiker für Anwendungsentwicklung.
+Ich begeistere mich für effizienten Code, moderne Web-Technologien und die Arbeit auf der Kommandozeile.
 
----
+🛠️ Mein Tech-Stack
 
-### 🛠️ Tech Stack
+Kategorie
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+Technologien
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-blue?style=for-the-badge&logo=java&logoColor=white)
+Sprachen
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Zsh](https://img.shields.io/badge/Zsh-%23F1502F.svg?style=for-the-badge&logo=zsh&logoColor=white)
 
----
 
-### 📊 GitHub Stats
+Frameworks
 
-![Deine Stats](https://github-readme-stats.vercel.app/api?username=DEIN-BENUTZERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-BENUTZERNAME&layout=compact&theme=radical)
+
+
+OS & Shell
+
+
+
+📈 Meine Aktivitäten & Statistiken
+
+<!--
+HINWEIS: Ersetze 'DEIN_NUTZERNAME' in den folgenden Links durch deinen echten GitHub-Nutzernamen!
+-->
+
+GitHub Stats & Top Languages
+
+<p align="left">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDEIN_NUTZERNAME%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue" alt="Statistiken" width="400" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DDEIN_NUTZERNAME%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue" alt="Top Sprachen" width="300" />
+</p>
+
+Aktivitäts-Graph (Die letzten 31 Tage)
+
+📫 So erreichst du mich
+
+Lernfokus: Aktuell vertiefe ich mein Wissen in Java & Next.js.
+
+Ziel: Abschluss der Umschulung und Einstieg in spannende Projekte.
+
+<!-- Parameter-Erklärung für diese Datei:
+
+style=flat-square: Erzeugt ein eckiges, minimalistisches Design für die Badges.
+
+theme=dark/react-dark: Passt die Farben an das dunkle GitHub-Design an.
+
+hide_border=true: Verhindert doppelte Rahmenlinien für einen saubereren Look.
+
+show_icons=true: Aktiviert grafische Symbole innerhalb der Statistik-Karten.
+-->
