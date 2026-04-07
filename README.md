@@ -24,4 +24,4 @@ Fachinformatiker Anwendungsentwicklung in Ausbildung. Fokus auf moderne Web- und
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Zsh](https://img.shields.io/badge/Zsh-1A2C34?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-1A2C34?style=for-the-badge&logo=gnubash&logoColor=white)
