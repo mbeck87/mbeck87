@@ -1,6 +1,6 @@
 # Martin
 
-Fachinformatiker Anwendungsentwicklung in Ausbildung. Fokus auf moderne Web- und Cross-Platform-Entwicklung.
+Fachinformatiker Anwendungsentwicklung. Fokus auf moderne Web- und Cross-Platform-Entwicklung.
 
 ---
 
